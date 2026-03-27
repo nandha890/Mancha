@@ -10,5 +10,5 @@ Hi 👋 I'm Nandha<br><br>🎓 Computer Science & Engineering student at KL Univ
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=nandha890&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=nandha890&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nandha890&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
